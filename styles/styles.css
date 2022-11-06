@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    background-color:blueviolet;
+    overflow:hidden;
+    text-align: center;
+}
+
+#myCanvas{
+    background: greenyellow;
+    height: 100%;
+}
+
